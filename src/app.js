@@ -16,9 +16,15 @@ let playlist = [ {
 }, {
   'title': 'Ghar More Pardesiya',
   'audio': "assets/Ghar More Pardesiya _Kalank _Dance cover _Aditi _N(MP3_160K).mp3",
+},{
+  'title': 'Ab Tere Dil Me',
+  'audio': "assets/Ab Tere Dil Mein(MyMp3Song).mp3",
+},{
+  'title': 'zaalima',
+  'audio': "assets/01 Zaalima - Raees (Arijit Singh) 320kbps.mp3",
 }, {
-  'title': 'Young T _ Bugsey',
-  'audio': "assets/Young T _ Bugsey - Don_t Rush (ft. Headie One) [Music Video] _ GRM Daily(MP3_160K).mp3",
+  'title': 'salamat',
+  'audio': "assets/01 Salamat (From _Sarbjit_) (SongsMp3.Com).mp3",
 } ];
 i = 0;
 n = playlist.length;
